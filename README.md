@@ -6,6 +6,7 @@ SQL analysis of e-commerce sales and customer behaviour.
 ## Project Overview
 
 This project analyzes an e-commerce retail dataset using SQL to uncover valuable business insights related to sales performance, customer behavior, product performance, and geographic trends.
+
 ---
 
 ## Business Problem
