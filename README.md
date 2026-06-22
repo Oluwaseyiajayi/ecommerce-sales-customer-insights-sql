@@ -156,5 +156,3 @@ Customers exhibit different spending patterns, creating opportunities for person
 
 * Improve customer identification processes
 * Reduce missing customer information to enable deeper customer analytics
-
-This project serves as a practical demonstration of SQL, analytical thinking, and business problem-solving skills relevant to Data Analyst roles and internship opportunities.
